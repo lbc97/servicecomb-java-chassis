@@ -54,7 +54,7 @@
     <gpg-maven-plugin.version>3.0.1</gpg-maven-plugin.version>
     <lifecycle-mapping-plugin.version>1.0.0</lifecycle-mapping-plugin.version>
     <jacoco-maven-plugin.version>0.8.8</jacoco-maven-plugin.version>
-    <javadoc-maven-plugin.version>3.4.0</javadoc-maven-plugin.version>
+    <javadoc-maven-plugin.version>3.4.1</javadoc-maven-plugin.version>
     <jxr-maven-plugin.version>2.5</jxr-maven-plugin.version>
     <maven-compiler-plugin.version>3.10.1</maven-compiler-plugin.version>
     <maven-failsafe-plugin.version>3.0.0-M7</maven-failsafe-plugin.version>
@@ -67,7 +67,7 @@
     <protoc-gen-grpc-java-plugin.version>1.47.0</protoc-gen-grpc-java-plugin.version>
     <puppycrawl-checkstyle.version>10.3.2</puppycrawl-checkstyle.version>
     <release-maven-plugin.version>2.5.3</release-maven-plugin.version>
-    <site-maven-plugin.version>3.12.0</site-maven-plugin.version>
+    <site-maven-plugin.version>3.12.1</site-maven-plugin.version>
     <source-maven-plugin.version>3.2.1</source-maven-plugin.version>
     <spotbug-maven-plugin.version>4.7.1.1</spotbug-maven-plugin.version>
     <spring-boot-maven-plugin.version>2.7.0</spring-boot-maven-plugin.version>
